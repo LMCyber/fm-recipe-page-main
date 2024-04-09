@@ -145,6 +145,7 @@ body {
   font-family: var(--secondaryFont);
   font-weight: 600;
   color: var(--darkRaspberry);
+  font-size: 20px;
 }
 
 .dot-container {
