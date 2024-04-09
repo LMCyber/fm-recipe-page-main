@@ -89,6 +89,7 @@ hr {
   border: none;
   height: 1px;
   background-color: var(--Eggshell);
+  margin: 0;
   margin-bottom: 32px;
 }
 
