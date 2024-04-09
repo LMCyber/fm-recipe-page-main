@@ -102,6 +102,7 @@ body {
 .main {
   background-color: var(--White);
   width: 100%;
+  min-width: 352px;
 }
 
 .container {
@@ -209,7 +210,7 @@ body {
 
 @media (min-width: 736px) {
   body {
-    padding: 50px;
+    padding: 123px 353px;
   }
   .main {
     width: 736px;
