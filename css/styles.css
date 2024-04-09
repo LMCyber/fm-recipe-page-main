@@ -74,6 +74,7 @@ li {
   display: flex;
   flex-direction: column;
   gap: 24px;
+  margin: 0;
   margin-bottom: 32px;
 }
 
