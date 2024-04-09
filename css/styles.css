@@ -219,6 +219,9 @@ body {
   .description {
     font-size: 16px;
   }
+  .title {
+    font-size: 40px;
+  }
   .coverImg {
     width: 656px;
     height: 300px;
